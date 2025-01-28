@@ -1,1 +1,1 @@
-"test" 
+Multithreading in Qt. Prints a single character (with a total of three characters in this case) to the console continously after a certain thread is started. It will only stop if that thread is stopped. Since this is multithreading, the three characters can be printed in parallel.
